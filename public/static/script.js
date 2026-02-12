@@ -8,7 +8,7 @@
 // ================================
 
 // Letter content - Edit this text to personalize your message
-const LETTER_TEXT = `I don't know what the future holds exactly...
+const LETTER_TEXT = `I don't know what the future holds exactly Harshita(radhee)...
 
 But I know I want to experience it with you.
 
@@ -31,32 +31,32 @@ And I can't wait for all the adventures waiting for us. 💕`;
 // 3. Add captions and descriptions
 const GALLERY_DATA = [
     {
-        image: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600',
+        image: './images/photo9.jpg',
         caption: 'Our First Date',
         description: 'The day everything started ❤️'
     },
     {
-        image: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600',
+        image: './images/photo6.jpg',
         caption: 'Sunset Together',
         description: 'Watching the sky change colors'
     },
     {
-        image: 'https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600',
-        caption: 'Coffee Date',
-        description: 'Our favorite cafe moment'
+        image: './images/photo10.jpg',
+        caption: 'MandirDate',
+        description: 'Hamari pahele date wo bhi Radhe aur krishna ji ke mandir mein'
     },
     {
-        image: 'https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=600',
-        caption: 'Silly Selfies',
-        description: 'Making memories everywhere'
+        image: './images/photo7.jpg',
+        caption: 'Movie Time',
+        description: 'your hand in my hand during the movie was the best feeling ever'
     },
     {
-        image: 'https://images.unsplash.com/photo-1523438097201-512ae7d59c44?w=600',
-        caption: 'Adventure Time',
-        description: 'Exploring new places together'
+        image: './images/photo1.jpg',
+        caption: 'Zoo Date',
+        description: 'When you hold me like that i feel like the luckiest person alive'
     },
     {
-        image: 'https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=600',
+        image: './images/photo2.jpg',
         caption: 'Just Us',
         description: 'Every moment is special'
     }
