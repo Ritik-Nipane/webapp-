@@ -38,7 +38,7 @@ app.get('/', (c) => {
         <section class="intro-section" id="intro-section">
             <div class="sparkles" id="sparkles"></div>
             <div class="intro-content">
-                <h1 class="intro-title" id="intro-title">Happy Valentine's Day, My Favorite Person ❤️</h1>
+                <h1 class="intro-title" id="intro-title">Happy Valentine's Day, My Lovee❤️</h1>
                 <p class="intro-subtitle" id="intro-subtitle">2 months… and already so many beautiful moments.</p>
                 <button class="start-button" id="start-button">Start Our Story 💖</button>
             </div>
@@ -52,29 +52,29 @@ app.get('/', (c) => {
                     <div class="timeline-item fade-in">
                         <div class="timeline-icon">💬</div>
                         <div class="timeline-content">
-                            <h3>The First Conversation</h3>
-                            <p class="typewriter">That moment when we started talking and time just... disappeared.</p>
+                            <h3>The First Time Our Eyes Met</h3>
+                            <p class="typewriter">That moment i seen your eyes i Knew you were mine..Lovee</p>
                         </div>
                     </div>
                     <div class="timeline-item fade-in">
                         <div class="timeline-icon">😊</div>
                         <div class="timeline-content">
-                            <h3>The First Laugh</h3>
-                            <p class="typewriter">When I realized your laugh was my new favorite sound.</p>
+                            <h3>The First time you hold my hand</h3>
+                            <p class="typewriter">When i was walking you hold my hand because you were falling and i fallen in your love</p>
                         </div>
                     </div>
                     <div class="timeline-item fade-in">
                         <div class="timeline-icon">💭</div>
                         <div class="timeline-content">
-                            <h3>The Realization</h3>
-                            <p class="typewriter">The moment we both knew... this feels different. This feels right.</p>
+                            <h3>The Moment you said Yes</h3>
+                            <p class="typewriter">The moment when we both fallen in love</p>
                         </div>
                     </div>
                     <div class="timeline-item fade-in">
                         <div class="timeline-icon">🤗</div>
                         <div class="timeline-content">
-                            <h3>The Comfort</h3>
-                            <p class="typewriter">Finding someone who feels like home. That's you.</p>
+                            <h3>Our First Time Together</h3>
+                            <p class="typewriter">That Day is very special because it was the first time we were together and i felt so happy and loved</p>
                         </div>
                     </div>
                 </div>
@@ -168,8 +168,8 @@ app.get('/', (c) => {
             <div class="surprise-content">
                 <div class="gift-box" id="gift-box">🎁</div>
                 <div class="surprise-message" id="surprise-message">
-                    <h2>You are already my favorite adventure.</h2>
-                    <p>Every moment with you is a gift 💝</p>
+                    <h2>You are already my Heart</h2>
+                    <p>Every moment with you is a gift Blessed By God 💝</p>
                 </div>
             </div>
         </div>
@@ -178,7 +178,6 @@ app.get('/', (c) => {
         <section class="gallery-section" id="gallery-section">
             <div class="container">
                 <h2 class="section-title fade-in">Our Beautiful Moments 📸</h2>
-                <p class="gallery-note fade-in">✨ You can easily add your own photos by editing the gallery data in script.js</p>
                 <div class="gallery-grid" id="gallery-grid">
                     <!-- Gallery items will be dynamically generated -->
                 </div>
@@ -189,15 +188,15 @@ app.get('/', (c) => {
         <section class="bucketlist-section" id="bucketlist-section">
             <div class="container">
                 <h2 class="section-title fade-in">Our Mini Bucket List 💕</h2>
-                <p class="bucketlist-subtitle fade-in">Adventures we'll check off together...</p>
+                <p class="bucketlist-subtitle fade-in">Adventures we'll check off together Lovee...</p>
                 <div class="bucketlist-grid">
                     <div class="bucket-item fade-in" data-id="1">
                         <div class="checkbox"></div>
-                        <span>Travel somewhere new together</span>
+                        <span>Travel Together to a New Place</span>
                     </div>
                     <div class="bucket-item fade-in" data-id="2">
                         <div class="checkbox"></div>
-                        <span>Try 10 new cafes</span>
+                        <span>A cafes Date</span>
                     </div>
                     <div class="bucket-item fade-in" data-id="3">
                         <div class="checkbox"></div>
@@ -205,11 +204,11 @@ app.get('/', (c) => {
                     </div>
                     <div class="bucket-item fade-in" data-id="4">
                         <div class="checkbox"></div>
-                        <span>Have a spontaneous day trip</span>
+                        <span>Have a spontaneous day trip somewhere in mountain</span>
                     </div>
                     <div class="bucket-item fade-in" data-id="5">
                         <div class="checkbox"></div>
-                        <span>Create 100 inside jokes</span>
+                        <span>Drawing together</span>
                     </div>
                     <div class="bucket-item fade-in" data-id="6">
                         <div class="checkbox"></div>
@@ -217,7 +216,7 @@ app.get('/', (c) => {
                     </div>
                     <div class="bucket-item fade-in" data-id="7">
                         <div class="checkbox"></div>
-                        <span>Cook a meal together (and not burn it)</span>
+                        <span>Cook a meal together aapko na kha jau mai ..heheh</span>
                     </div>
                     <div class="bucket-item fade-in" data-id="8">
                         <div class="checkbox"></div>
@@ -225,7 +224,7 @@ app.get('/', (c) => {
                     </div>
                     <div class="bucket-item fade-in" data-id="9">
                         <div class="checkbox"></div>
-                        <span>Build a playlist of "our songs"</span>
+                        <span>Build a playlist of "our songs"..i use youtube music</span>
                     </div>
                     <div class="bucket-item fade-in" data-id="10">
                         <div class="checkbox"></div>
