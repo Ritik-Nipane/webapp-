@@ -43,7 +43,7 @@ const GALLERY_DATA = [
     {
         image: '/static/Images/10.jpeg',
         caption: 'Mandir Date',
-        description: 'Hamari pehli date, wo bhi Radhe aur Krishna ji ke mandir mein ❤️'
+        description: 'Hamari pehli date, Radhe aur Krishna ji ke mandir mein ❤️'
     },
     {
         image: '/static/Images/7.jpeg',
@@ -61,6 +61,7 @@ const GALLERY_DATA = [
         description: 'Every moment with you is special'
     }
 ];
+
 
 // Future plans/adventures - Add more if you want!
 const FUTURE_PLANS = [
