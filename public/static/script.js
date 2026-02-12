@@ -8,7 +8,7 @@
 // ================================
 
 // Letter content - Edit this text to personalize your message
-const LETTER_TEXT = `I don't know what the future holds exactly Harshita(radhee)...
+const LETTER_TEXT = `I don't know what the future holds Babee...
 
 But I know I want to experience it with you.
 
@@ -29,6 +29,7 @@ And I can't wait for all the adventures waiting for us. 💕`;
 // 1. Upload your images to the /public/static/ folder
 // 2. Update the paths below (e.g., '/static/photo1.jpg')
 // 3. Add captions and descriptions
+
 const GALLERY_DATA = [
     {
         image: '/static/Images/9.jpeg',
