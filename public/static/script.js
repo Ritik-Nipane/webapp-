@@ -31,34 +31,34 @@ And I can't wait for all the adventures waiting for us. 💕`;
 // 3. Add captions and descriptions
 const GALLERY_DATA = [
     {
-        image: 'public/static/Images/9.jpeg',
+        image: '/static/Images/9.jpeg',
         caption: 'Our First Date',
         description: 'The day everything started ❤️'
     },
     {
-        image: 'public/static/Images/6.jpeg',
+        image: '/static/Images/6.jpeg',
         caption: 'Sunset Together',
         description: 'Watching the sky change colors'
     },
     {
-        image: 'public/static/Images/10.jpeg',
-        caption: 'MandirDate',
-        description: 'Hamari pahele date wo bhi Radhe aur krishna ji ke mandir mein'
+        image: '/static/Images/10.jpeg',
+        caption: 'Mandir Date',
+        description: 'Hamari pehli date, wo bhi Radhe aur Krishna ji ke mandir mein ❤️'
     },
     {
-        image: 'public/static/Images/7.jpeg',
+        image: '/static/Images/7.jpeg',
         caption: 'Movie Time',
-        description: 'your hand in my hand during the movie was the best feeling ever'
+        description: 'Your hand in my hand during the movie was the best feeling ever'
     },
     {
-        image: 'public/static/Images/1.jpeg',
+        image: '/static/Images/1.jpeg',
         caption: 'Zoo Date',
-        description: 'When you hold me like that i feel like the luckiest person alive'
+        description: 'When you hold me like that, I feel like the luckiest person alive'
     },
     {
-        image: 'public/static/Images/2.jpeg',
+        image: '/static/Images/2.jpeg',
         caption: 'Just Us',
-        description: 'Every moment is special'
+        description: 'Every moment with you is special'
     }
 ];
 
